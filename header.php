@@ -24,3 +24,4 @@ $sub_titulo = "Aqui é onde voce encontra todos os mais novos e modernos livros 
             <button class="button"><a href="cont.php">Contato</a></button>
         </nav>
 </header>
+<body>

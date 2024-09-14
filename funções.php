@@ -1,3 +1,33 @@
+<?php 
+function criarLista(){
+    $listaNotícia[0] = array(
+        "titulo" => "DEAR JOHN",
+        "descricao" => "Quando John Tyree conhece Savannah Lynn Curtis, descobre estar pronto para recomeçar sua vida. Com um futuro sem grandes perspectivas, ele, um jovem rebelde, decide alistar-se no exército, após concluir o ensino médio. Durante sua licença, conhece a garota de seus sonhos, Savannah.",
+        "imagem" => "./imagens/pdf1/dear.jpg",
+        "href" => "https://localhost/InfoEbooks/?pagina=dear"
+    );
+}
+?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <?php
 /**
  * TimeZone

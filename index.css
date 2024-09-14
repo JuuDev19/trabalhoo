@@ -180,3 +180,16 @@ h2 {
 h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+footer {
+    width: 100%;
+     min-height: 40px;
+     background: #00000081;
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     justify-content: space-between;
+     padding: 20px;
+     box-sizing: border-box;
+     height: 106px;
+     color: white;
+   }

@@ -18,7 +18,7 @@
 </body>
 <footer class="footer">
         <h2 class="roda">InfoEbooks</h2> 
-        <a href="principal.php.">VOLTAR PARA O TOPO</a>
+        <a href="#top">VOLTAR PARA O TOPO</a>
 </footer>
     
 </html>

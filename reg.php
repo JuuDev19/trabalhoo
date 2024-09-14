@@ -32,11 +32,3 @@
     <a href="principal.php">Concluir<button class="button"></button></a>
     </p>
 </form>
-
-
-</body>
-<footer class="footer">
-        <h2 class="roda">InfoEbooks</h2> 
-        <a href="principal.php.">VOLTAR PARA O TOPO</a>
-</footer>
-</html>

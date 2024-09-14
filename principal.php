@@ -22,7 +22,7 @@ $subtitulo = "Aqui é onde voce encontra todos os mais novos e modernos livros d
     <div class="CaixaMenor">
             <a class= "link" href="./pdf/dear"> 
                 <div class="conteudo">
-                <img class="img" src="./imagens/dear.jpg" width="320px" height="180px"></img> 
+                <img class="img" src="./imagens/pdf1/dear.jpg" width="320px" height="180px"></img> 
                 <br>
                 <p class="titulo">DEAR JOHN</p>
                 <br>
@@ -33,9 +33,9 @@ $subtitulo = "Aqui é onde voce encontra todos os mais novos e modernos livros d
             </a>
         
 
-        <a class= "link" href="./pdf2/">;
+        <a class= "link" href="">
             <div class="conteudo">;
-            <img class="img" src="./imagens/comoeu.jpg" width="320px" height="180px"></img>;
+            <img class="img" src="./imagens/pdf2/comoeu.jpg" width="320px" height="180px"></img>;
             <br>
             <p class="titulo">COMO EU ERA ANTES DE VOCE</p>;
             <br>
@@ -48,7 +48,7 @@ $subtitulo = "Aqui é onde voce encontra todos os mais novos e modernos livros d
             </a>
             <a class="link" href="./pdf1/a-culpa-c3a9-das-estrelas-john-green.pdf">
                 <div class="conteudo">
-                <img class="img" src="./imagens/escrito.jpg" width="320px" height="180px"></img>
+                <img class="img" src="./imagens/pdf6/estreas.jpg" width="320px" height="180px"></img>
                 <p class="titulo ">A CULPA É DAS ESTRELAS</p>
                 <br>
                 <p> Diagnosticada com câncer, a adolescente Hazel Grace Lancaster (Shailene Woodley) se mantém viva graças a uma droga experimental. Após passar anos lutando com a doença, ela é forçada pelos pais a participar de um grupo de apoio cristão. Lá, conhece Augustus Waters (Ansel Elgort), um rapaz que também sofre com câncer.</p>
@@ -58,7 +58,7 @@ $subtitulo = "Aqui é onde voce encontra todos os mais novos e modernos livros d
             </a>
             <a class="link" href="./pdf3/orgulho-e-preconceito-jane-austen.pdf">
                 <div class="conteudo">
-                    <img class="img" src="./imagens/orgulho.jpg" width="320px" height="180px"></img>
+                    <img class="img" src="./imagens/pdf3/orgulho.jpg" width="320px" height="180px"></img>
                     <p class="titulo"> ORGULHO E PRECONCEITO</p>
                     <br>
                     <p> A história de Orgulho e Preconceito gira em torno das cinco irmãs Bennet, que viviam na área rural do interior da Inglaterra, no século XVIII. Aborda a questão da sucessão em uma família sem herdeiros homens, dentro de uma sociedade patriarcal, onde o casamento era fundamental para as mulheres.</p>
@@ -68,7 +68,7 @@ $subtitulo = "Aqui é onde voce encontra todos os mais novos e modernos livros d
             </a>
             <a class="link" href="./pdf4/Tartarugas ate la embaixo - John Green.pdf">
                 <div class="conteudo">
-                <img class="img" src="./imagens/tartarugas.jpg" width="320px" height="180px"></img>
+                <img class="img" src="./imagens/pdf4/tartarugas.jpg" width="320px" height="180px"></img>
                 <p class="titulo">TARTARUGAS ATÉ LÁ EMBAIXO</p>
                 <br>
                 <p> Aza Holmes luta para ser uma boa filha, amiga e aluna, mas se vê constantemente dominada por pensamentos obsessivos que fogem ao seu controle. O reencontro com Davis, seu amor da infância, traz à tona fundamentalidades sobre o amor, a felicidade e esperança.</p>
@@ -76,7 +76,7 @@ $subtitulo = "Aqui é onde voce encontra todos os mais novos e modernos livros d
                 </div>
             <a class="link" href="./pdf5/John Green - Quem é Você Alasca.pdf">
                 <div class="conteudo">
-                    <img class="img" src="./imagens/alasca.jpg" with="320px" height="180px"><img>
+                    <img class="img" src="./imagens/pdf5/alasca.jpg" with="320px" height="180px"><img>
                     <p class="titulo"> QUEM É VOCE,ALASCA ? </p>
                     <br>
                     <p> Miles Halter leva uma vida sem graça e sem muitas emoções na Flórida. O garoto tem um gosto peculiar: memorizar as últimas palavras de grandes personalidades da história, e uma dessas personalidades, François Rabelais, um escritor do século XV, disse no leito de morte que ia em “busca de um Grande Talvez.</p>
@@ -100,6 +100,3 @@ $subtitulo = "Aqui é onde voce encontra todos os mais novos e modernos livros d
             </div>
         </aside>
 </section>
-
-</body>
-</html>
