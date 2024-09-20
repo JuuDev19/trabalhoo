@@ -6,7 +6,61 @@ function criarLista(){
         "imagem" => "./imagens/pdf1/dear.jpg",
         "href" => "https://localhost/InfoEbooks/?pagina=dear"
     );
-}
+$listaNotícia[1] = array(
+    "titulo" => "COMO EU ERA ANTES DE VOCE",
+    "descricao" => "Will Traynor, de 35 anos, é inteligente, rico e mal-humorado. Preso a uma cadeira de rodas depois de um acidente de moto, o antes ativo e esportivo Will desconta toda a sua amargura em quem estiver por perto e planeja dar um fim ao seu sofrimento. O que Will não sabe é que Lou está prestes a trazer cor a sua vida.",
+    "imagem " => "./imagem/pdf2/dear.jpg",
+    "href" => "https://localhost/InfoEbooks/?pagina=comoeu"
+    );
+$listaNotícia[2] = array(
+        "titulo" => "A CULPA É DAS ESTRELAS",
+        "descricao" => "Diagnosticada com câncer, a adolescente Hazel Grace Lancaster (Shailene Woodley) se mantém viva graças a uma droga experimental. Após passar anos lutando com a doença, ela é forçada pelos pais a participar de um grupo de apoio cristão. Lá, conhece Augustus Waters (Ansel Elgort), um rapaz que também sofre com câncer.",
+        "imagem " => "./imagem/pdf6/dear.jpg",
+        "href" => "https://localhost/InfoEbooks/?pagina=comoeu"
+    );
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function calcularImc($peso,$altura){
+    A$resposta = 0;
+    if($peso && $altura){
+        $resposta = $pes0 / ($altura * $altura);
+    }
+    return $resposta;
+} 
 ?>
 
 

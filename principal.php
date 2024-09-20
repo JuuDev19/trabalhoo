@@ -33,7 +33,7 @@ $subtitulo = "Aqui é onde voce encontra todos os mais novos e modernos livros d
             </a>
         
 
-        <a class= "link" href="">
+        <a class= "link" href="./pdf2/estrelas.jp">
             <div class="conteudo">;
             <img class="img" src="./imagens/pdf2/comoeu.jpg" width="320px" height="180px"></img>;
             <br>
@@ -48,7 +48,7 @@ $subtitulo = "Aqui é onde voce encontra todos os mais novos e modernos livros d
             </a>
             <a class="link" href="./pdf1/a-culpa-c3a9-das-estrelas-john-green.pdf">
                 <div class="conteudo">
-                <img class="img" src="./imagens/pdf6/estreas.jpg" width="320px" height="180px"></img>
+                <img class="img" src="./imagens/pdf6/estreasz\.jpg" width="320px" height="180px"></img>
                 <p class="titulo ">A CULPA É DAS ESTRELAS</p>
                 <br>
                 <p> Diagnosticada com câncer, a adolescente Hazel Grace Lancaster (Shailene Woodley) se mantém viva graças a uma droga experimental. Após passar anos lutando com a doença, ela é forçada pelos pais a participar de um grupo de apoio cristão. Lá, conhece Augustus Waters (Ansel Elgort), um rapaz que também sofre com câncer.</p>
@@ -90,12 +90,21 @@ $subtitulo = "Aqui é onde voce encontra todos os mais novos e modernos livros d
         <aside class="sidebar">
             <div class ="sidebarContent">
                 <div class="IMC">
-                    <P>ÍNDICE DE MASSA CORPORAL (IMC)</P>
+                <form method="POST" oction="#">
+                    <p>ÍNDICE DE MASSA CORPORAL (IMC)</P>
+                    <br>
                     <label for="#peso">Peso (KG)</label>
-                    <input id="peso" type="text" placeholder="Digite o peso..">
-                    <label for="#altura">Altura (M)</label>
-                    <input id="altura" type="text" placeholder="Digite a altura..">
+                    <p>
+                    <input id="peso" name="peso" type="text"
+                    placeholder="Digite seu peso..">
+                    <label for="#altura">Altura (M)</label
+                    placeholder="Digite a altura..">
+                    <input id="altura" name="altura" type="text"
+                    placeholder="Digite a altura..">
+                    <button type="submit">
                     <button class="BtnCalcular">Calcular</button>
+                </form>
+                Resultado: <?= $resposta;?>
                 </div>
             </div>
         </aside>
